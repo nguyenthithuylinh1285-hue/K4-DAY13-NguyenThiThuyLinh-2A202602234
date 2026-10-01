@@ -1,0 +1,17 @@
+{
+  "source_ref": "https://raw.githubusercontent.com/open-mmlab/mmdetection3d/fe25f7a51d36e3702f961e198894580d83c4387b/demo/data/kitti/000008.bin",
+  "source_sha256": "3b9de6cc966534900f6a1bdc93b21772e47a334eb2ef18082021956520d902d1",
+  "source_dataset": "KITTI Vision Benchmark Suite / MMDetection3D demo 000008",
+  "source_bytes": 275808,
+  "points": 17238,
+  "license": "CC-BY-NC-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "copyright_url": "https://www.cvlibs.net/datasets/kitti/",
+  "changes": {
+    "x_y": "unchanged",
+    "z_offset_m": 1.73,
+    "reflectance": "discarded; constant channels in existing model adapter",
+    "rgb": "uint32 zero placeholder"
+  },
+  "pcd_sha256": "3b5ea3da13e2b19149cab6a8d521c2ca55f2df93f026b5a3f8c273ce70645d60"
+}

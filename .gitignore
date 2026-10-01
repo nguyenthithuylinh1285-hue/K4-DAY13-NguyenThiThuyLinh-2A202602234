@@ -1,0 +1,41 @@
+# Runtime, private course data and filled submissions
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+*.pcd
+*.bin
+*.ply
+*.pth
+*.pt
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+*.csv
+*.json
+*.png
+*.jpg
+*.jpeg
+*.mp4
+input/
+data/*
+output/
+run-*/
+qc-cases/
+provided-results/
+K4-DAY13-*/
+.DS_Store
+
+# Only the explicitly licensed KITTI adaptation is published.
+!data/demo.pcd
+!data/provenance.json
+!data/ATTRIBUTION.md
+!data/LICENSE.txt
+student-bundles/
+
+# Cho phep 2 file markdown trong report/K4-DAY13-TenNhom/
+!report/
+!report/**

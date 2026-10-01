@@ -1,0 +1,12 @@
+KITTI sample data and its PCD adaptation
+Copyright KITTI Vision Benchmark Suite authors (Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago).
+Creators: Andreas Geiger, Philip Lenz, Raquel Urtasun; KITTI dataset contributors.
+
+License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
+License deed: https://creativecommons.org/licenses/by-nc-sa/3.0/
+Full legal terms: https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Official dataset copyright: https://www.cvlibs.net/datasets/kitti/
+
+You may share and adapt under the license conditions: provide appropriate attribution and license link, indicate modifications, use only for noncommercial purposes, and distribute adaptations under the same license. No additional restrictions may be imposed on the licensed rights. This is not unrestricted or commercial-use data. The dataset website states academic use only; this package is for the noncommercial classroom experiment.
+
+This notice applies to demo.pcd and data derivatives, not a blanket license grant for all code, model weights or third-party dependencies. Retain their respective upstream licenses. No Robotaxi/VinFast data is included or licensed here.
